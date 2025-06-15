@@ -54,7 +54,7 @@ const skillsSection = {
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Integration of third party services such as Firebase"
     )
   ],
 
@@ -186,6 +186,12 @@ const bigProjects = {
           url: "https://github.com/Mufaris32/Fun-Facts"
         }
       ]
+    },
+    {
+      projectName: "Portfolio",
+      projectDesc: "My personal portfolio website to showcase my projects and skills.",
+      image: require("./WhatsApp Image 2025-06-15 at 01.09.58_d4ca6750.jpg"),
+      footerLink: []
     }
   ],
   display: true
